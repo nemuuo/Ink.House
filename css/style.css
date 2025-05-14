@@ -650,6 +650,11 @@ ul {
         min-width: 100% !important;
     }
 
+    .repr-item img {
+        min-width: 100%;
+    }
+
+
     .new {
         background-image: url(../img/new-bg2.png) !important;
         background-size: cover !important;
